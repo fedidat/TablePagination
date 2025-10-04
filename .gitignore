@@ -3,3 +3,5 @@ old/
 DATA/
 processing/
 .hidden/
+api_key.txt
+originals/
