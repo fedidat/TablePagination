@@ -3,6 +3,7 @@ old/
 DATA/
 processing/
 .hidden/
-api_key.txt
+or_api_key.txt
+gpt_api_key.txt
 more_keys.txt
 originals/
